@@ -4,6 +4,7 @@
 Most of our open source tools are published under https://github.com/quarkslab but not all,
 so here is a more exhaustive list.
 
+* [proxyblob](https://github.com/quarkslab/proxyblob): SOCKS5 proxy tool that uses Azure Blob Storage as a means of communication
 * [pixiefail](https://github.com/quarkslab/pixiefail): PoC for PixieFail vulnerabilities
 * [dxfx](https://github.com/quarkslab/dxfx): DxFx is a proof-of-concept DJI Pilot unpacker
 * [diffing_obfuscation_dataset](https://github.com/quarkslab/diffing_obfuscation_dataset): The dataset was used as a support to attack obfuscations. It is the largest obfuscated dataset, with realistic and various binaries and functions. It is made to support other experiments on obfuscation for research purposes
